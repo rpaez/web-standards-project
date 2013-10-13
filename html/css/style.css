@@ -597,6 +597,7 @@ img { height: auto }
     .container .grid_10,
     .container .grid_11,
     .container .grid_12 { width: 260px }
+    ul.leftnav{display: none;}
 }
 /* set font face for burt's bees baby - file merged on 10.04.13 - Ricky P. */
 @font-face {
