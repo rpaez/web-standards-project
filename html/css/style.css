@@ -442,6 +442,7 @@ img { height: auto }
    ========================================================================== */
 @media only screen and (max-width: 767px) { 
     body { min-width: 0 }
+    
     /* Container */
     .container {
         margin: 0 auto;
@@ -577,6 +578,7 @@ img { height: auto }
     .container .pull_9,
     .container .pull_10,
     .container .pull_11 { left: 0 }
+    #leftrail{ display:none }
 }
 /* =============================================================================
    Less than 480px
@@ -596,8 +598,7 @@ img { height: auto }
     .container .grid_9,
     .container .grid_10,
     .container .grid_11,
-    .container .grid_12 { width: 260px }
-    ul.leftnav{display: none;} 
+    #leftrail{ display:none }
 }
 /* set font face for burt's bees baby - file merged on 10.04.13 - Ricky P. */
 @font-face {
