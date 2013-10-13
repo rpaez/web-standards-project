@@ -600,6 +600,7 @@ img { height: auto }
     .container .grid_11,
     .container .grid_12 { width: 260px }
     #leftrail{ display:none }
+    #nav li.listitem + li.listitem {margin-left: 25px}
 }
 /* set font face for burt's bees baby - file merged on 10.04.13 - Ricky P. */
 @font-face {
