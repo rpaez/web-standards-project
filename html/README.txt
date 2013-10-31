@@ -1,4 +1,4 @@
 paez_ricardo-framework
 ======================
 
-http://rpaez.github.io/paez_ricardo-framework/html/index.html
+http://rpaez.github.io/web-standards-project/html/index.html
